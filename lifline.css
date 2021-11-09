@@ -1,0 +1,275 @@
+/* Standard */
+* {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Display */
+.block {
+    display: block;
+}
+
+.contents {
+    display: contents;
+}
+
+.flex {
+    display: flex;
+}
+
+.grid {
+    display: grid;
+}
+
+.inherit {
+    display: inherit;
+}
+
+.inline {
+    display: inline;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
+.inline-flex {
+    display: inline-flex;
+}
+
+.inline-grid {
+    display: inline-grid;
+}
+
+.inline-table {
+    display: inline-table;
+}
+
+.list-item {
+    display: list-item;
+}
+
+.none {
+    display: none;
+}
+
+.run-in {
+    display: run-in;
+}
+
+.table {
+    display: table;
+}
+
+.table-caption {
+    display: table-caption;
+}
+
+.table-cell {
+    display: table-cell;
+}
+
+.table-column {
+    display: table-column;
+}
+
+.table-column-group {
+    display: table-column-group;
+}
+
+.table-footer-group {
+    display: table-footer-group;
+}
+
+.table-header-group {
+    display: table-header-group;
+}
+
+.table-row {
+    display: table-row;
+}
+
+.table-row-group {
+    display: table-row-group;
+}
+
+/* Width and Height */
+.full {
+    width: 100vw;
+    height: 100vh;
+}
+
+.half-v {
+    width: 100vw;
+    height: 50vh;
+}
+
+.half-h {
+    width: 50vw;
+    height: 100vh;
+}
+
+.half-v-h {
+    width: 50vw;
+    height: 50vh;
+}
+
+
+/* Placements */
+.center {
+    align-items: center;
+    justify-content: center;
+}
+
+.align-items-center {
+    align-items: center;
+}
+
+.align-items-end {
+    align-items: flex-end;
+}
+
+.justify-content-center {
+    justify-content: center;
+} 
+
+.justify-content-end {
+    justify-content: end;
+} 
+
+.text-center {
+    text-align: center;
+}
+
+/* Margin */
+.margin0 {
+    margin: 0;
+}
+
+.margin10px {
+    margin: 10px;
+}
+
+.margin10pr {
+    margin: 10%;
+}
+
+/* Padding */
+.padding0 {
+    padding: 0;
+}
+
+.padding10px {
+    padding: 10px;
+}
+
+.padding10pr {
+    padding: 10%;
+}
+
+/* Gap */
+.gap0-125rem {
+    gap: .125rem;
+}
+.gap0-25rem {
+    gap: .25rem;
+}
+.gap0-5rem {
+    gap: .5rem;
+}
+.gap1rem {
+    gap: 1rem;
+}
+.gap2rem {
+    gap: 2rem;
+}
+.gap3rem {
+    gap: 3rem;
+}
+.gap4rem {
+    gap: 4rem;
+}
+.gap5rem {
+    gap: 5rem;
+}
+.gap6rem {
+    gap: 6rem;
+}
+.gap7rem {
+    gap: 7rem;
+}
+.gap8rem {
+    gap: 8rem;
+}
+.gap9rem {
+    gap: 9rem;
+}
+.gap10rem {
+    gap: 10rem;
+}
+
+.gap0-125em {
+    gap: .125em;
+}
+.gap0-25em {
+    gap: .25em;
+}
+.gap0-5em {
+    gap: .5em;
+}
+.gap1em {
+    gap: 1em;
+}
+.gap2em {
+    gap: 2em;
+}
+.gap3em {
+    gap: 3em;
+}
+.gap4em {
+    gap: 4em;
+}
+.gap5em {
+    gap: 5em;
+}
+.gap6em {
+    gap: 6em;
+}
+.gap7em {
+    gap: 7em;
+}
+.gap8em {
+    gap: 8em;
+}
+.gap9em {
+    gap: 9em;
+}
+.gap10em {
+    gap: 10em;
+}
+
+/* Shortcuts 
+.flex-full-center {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.full-center {
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+.grid-full-center {
+    display: grid;
+    width: 100vw;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}*/
